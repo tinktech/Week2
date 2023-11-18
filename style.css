@@ -85,9 +85,6 @@ h3 {
 table {
     border-collapse: collapse;
 }
-/*tr:nth-child(odd) {
-    background-color: #f0dcff;
-}*/
 tr:nth-child(even) {
     background-color: #e1f0f5;
 }
